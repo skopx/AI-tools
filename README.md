@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skopx.com">
-    <img src="https://skopx.com/logo-dark.png" alt="Skopx" width="200" />
+    <img src="https://skopx.com/logo-light.png" alt="Skopx" width="200" />
   </a>
 </p>
 
